@@ -1,0 +1,162 @@
+[
+  {
+    "restaurant_id": 1,
+    "name": "Pizza Palace",
+    "items": [
+      { "id": 1, "name": "Margherita Pizza", "price": 8.99 },
+      { "id": 2, "name": "Pepperoni Pizza", "price": 9.99 },
+      { "id": 3, "name": "Veggie Pizza", "price": 10.99 },
+      { "id": 4, "name": "BBQ Chicken Pizza", "price": 11.99 },
+      { "id": 5, "name": "Hawaiian Pizza", "price": 10.49 },
+      { "id": 6, "name": "Meat Lovers Pizza", "price": 12.49 },
+      { "id": 7, "name": "Four Cheese Pizza", "price": 11.49 },
+      { "id": 8, "name": "Spinach & Feta Pizza", "price": 10.99 },
+      { "id": 9, "name": "Buffalo Chicken Pizza", "price": 12.99 },
+      { "id": 10, "name": "Garlic Breadsticks", "price": 4.99 }
+    ]
+  },
+  {
+    "restaurant_id": 2,
+    "name": "Burger Barn",
+    "items": [
+      { "id": 1, "name": "Classic Burger", "price": 7.49 },
+      { "id": 2, "name": "Cheese Burger", "price": 8.49 },
+      { "id": 3, "name": "Bacon Burger", "price": 9.49 },
+      { "id": 4, "name": "Double Burger", "price": 10.99 },
+      { "id": 5, "name": "Veggie Burger", "price": 8.99 },
+      { "id": 6, "name": "Mushroom Swiss Burger", "price": 9.99 },
+      { "id": 7, "name": "BBQ Burger", "price": 9.99 },
+      { "id": 8, "name": "Avocado Burger", "price": 10.49 },
+      { "id": 9, "name": "Spicy Jalapeno Burger", "price": 9.49 },
+      { "id": 10, "name": "Fries", "price": 3.49 }
+    ]
+  },
+  {
+    "restaurant_id": 3,
+    "name": "Sushi World",
+    "items": [
+      { "id": 1, "name": "California Roll", "price": 12.99 },
+      { "id": 2, "name": "Spicy Tuna Roll", "price": 13.99 },
+      { "id": 3, "name": "Salmon Nigiri", "price": 14.99 },
+      { "id": 4, "name": "Eel Roll", "price": 15.49 },
+      { "id": 5, "name": "Shrimp Tempura Roll", "price": 13.99 },
+      { "id": 6, "name": "Avocado Roll", "price": 11.99 },
+      { "id": 7, "name": "Rainbow Roll", "price": 16.49 },
+      { "id": 8, "name": "Vegetable Roll", "price": 10.99 },
+      { "id": 9, "name": "Tuna Sashimi", "price": 14.99 },
+      { "id": 10, "name": "Miso Soup", "price": 3.99 }
+    ]
+  },
+  {
+    "restaurant_id": 4,
+    "name": "Taco Town",
+    "items": [
+      { "id": 1, "name": "Beef Taco", "price": 3.99 },
+      { "id": 2, "name": "Chicken Taco", "price": 3.49 },
+      { "id": 3, "name": "Veggie Taco", "price": 3.29 },
+      { "id": 4, "name": "Fish Taco", "price": 4.49 },
+      { "id": 5, "name": "Carnitas Taco", "price": 4.29 },
+      { "id": 6, "name": "Shrimp Taco", "price": 4.99 },
+      { "id": 7, "name": "Barbacoa Taco", "price": 4.59 },
+      { "id": 8, "name": "Chorizo Taco", "price": 4.39 },
+      { "id": 9, "name": "Breakfast Taco", "price": 3.99 },
+      { "id": 10, "name": "Chips & Salsa", "price": 2.99 }
+    ]
+  },
+  {
+    "restaurant_id": 5,
+    "name": "Pasta Place",
+    "items": [
+      { "id": 1, "name": "Spaghetti Bolognese", "price": 11.99 },
+      { "id": 2, "name": "Penne Alfredo", "price": 12.49 },
+      { "id": 3, "name": "Lasagna", "price": 13.99 },
+      { "id": 4, "name": "Fettuccine Carbonara", "price": 12.99 },
+      { "id": 5, "name": "Ravioli", "price": 12.49 },
+      { "id": 6, "name": "Pesto Pasta", "price": 11.49 },
+      { "id": 7, "name": "Seafood Pasta", "price": 14.99 },
+      { "id": 8, "name": "Meatball Pasta", "price": 13.49 },
+      { "id": 9, "name": "Garlic Bread", "price": 3.99 },
+      { "id": 10, "name": "Caesar Salad", "price": 5.99 }
+    ]
+  },
+  {
+    "restaurant_id": 6,
+    "name": "Indian Spice",
+    "items": [
+      { "id": 1, "name": "Butter Chicken", "price": 10.99 },
+      { "id": 2, "name": "Paneer Tikka", "price": 9.99 },
+      { "id": 3, "name": "Naan Bread", "price": 2.99 },
+      { "id": 4, "name": "Chicken Biryani", "price": 11.99 },
+      { "id": 5, "name": "Lamb Curry", "price": 12.99 },
+      { "id": 6, "name": "Dal Makhani", "price": 8.99 },
+      { "id": 7, "name": "Chana Masala", "price": 7.99 },
+      { "id": 8, "name": "Samosa", "price": 3.49 },
+      { "id": 9, "name": "Raita", "price": 2.99 },
+      { "id": 10, "name": "Gulab Jamun", "price": 4.99 }
+    ]
+  },
+  {
+    "restaurant_id": 7,
+    "name": "Healthy Bites",
+    "items": [
+      { "id": 1, "name": "Quinoa Salad", "price": 8.99 },
+      { "id": 2, "name": "Avocado Toast", "price": 7.49 },
+      { "id": 3, "name": "Smoothie Bowl", "price": 6.99 },
+      { "id": 4, "name": "Grilled Chicken Salad", "price": 9.99 },
+      { "id": 5, "name": "Veggie Wrap", "price": 7.99 },
+      { "id": 6, "name": "Protein Shake", "price": 5.99 },
+      { "id": 7, "name": "Hummus & Veggies", "price": 6.49 },
+      { "id": 8, "name": "Kale Chips", "price": 4.99 },
+      { "id": 9, "name": "Fruit Salad", "price": 5.49 },
+      { "id": 10, "name": "Green Juice", "price": 4.99 }
+    ]
+  },
+  {
+    "restaurant_id": 8,
+    "name": "BBQ Joint",
+    "items": [
+      { "id": 1, "name": "Pulled Pork Sandwich", "price": 9.99 },
+      { "id": 2, "name": "BBQ Ribs", "price": 14.99 },
+      { "id": 3, "name": "Coleslaw", "price": 3.99 },
+      { "id": 4, "name": "Brisket", "price": 13.99 },
+      { "id": 5, "name": "Grilled Chicken", "price": 11.99 },
+      { "id": 6, "name": "Cornbread", "price": 3.49 },
+      { "id": 7, "name": "Mac & Cheese", "price": 4.99 },
+      { "id": 8, "name": "BBQ Sausage", "price": 10.99 },
+      { "id": 9, "name": "Baked Beans", "price": 3.99 },
+      { "id": 10, "name": "Potato Salad", "price": 3.99 }
+    ]
+  },
+  {
+    "restaurant_id": 9,
+    "name": "Vegan Delight",
+    "items": [
+      { "id": 1, "name": "Vegan Burger", "price": 10.99 },
+      { "id": 2, "name": "Tofu Stir Fry", "price": 11.49 },
+      { "id": 3, "name": "Vegan Wrap", "price": 8.99 },
+      { "id": 4, "name": "Lentil Soup", "price": 7.99 },
+      { "id": 5, "name": "Chickpea Curry", "price": 9.49 },
+      { "id": 6, "name": "Veggie Bowl", "price": 8.49 },
+      { "id": 7, "name": "Falafel Wrap", "price": 8.99 },
+      { "id": 8, "name": "Quinoa & Veggies", "price": 9.49 },
+      { "id": 9, "name": "Sweet Potato Fries", "price": 4.99 },
+      { "id": 10, "name": "Kale Salad", "price": 7.99 }
+    ]
+  },
+  {
+    "restaurant_id": 10,
+    "name": "Dessert Haven",
+    "items": [
+      { "id": 1, "name": "Chocolate Cake", "price": 6.99 },
+      { "id": 2, "name": "Cheesecake", "price": 7.49 },
+      { "id": 3, "name": "Ice Cream Sundae", "price": 5.99 },
+      { "id": 4, "name": "Apple Pie", "price": 6.49 },
+      { "id": 5, "name": "Brownie", "price": 4.99 },
+      { "id": 6, "name": "Lemon Tart", "price": 5.99 },
+      { "id": 7, "name": "Cupcake", "price": 3.99 },
+      { "id": 8, "name": "Panna Cotta", "price": 6.99 },
+      { "id": 9, "name": "Tiramisu", "price": 7.99 },
+      { "id": 10, "name": "Macarons", "price": 8.49 }
+    ]
+  }
+]
